@@ -1,75 +1,66 @@
-# Frans Sadie
+<div align="center">
 
-## Current focus
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=FRANS%20SADIE&fontAlign=50&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlign=50&descAlignY=60&animation=fadeIn&section=header" />
 
-- TypeScript / React / Next.js
-- Python data pipelines and model workflows
-- Local-first desktop apps with Tauri
-- AI-assisted product prototypes
-- Market analytics and research tooling
+### Full-stack systems · developer tooling · AI/data experiments
 
-## Selected projects
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/FransSadie/PersonalPorfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FransSadie)
 
-### TRACE
+</div>
 
-Local-first desktop knowledge base for engineers built with Tauri, React, TypeScript, Markdown, and SQLite.
+---
 
-- Markdown-first storage
-- SQLite metadata and search layer
-- Desktop app shell using Tauri
-- Designed around fast local capture and retrieval
+## Stack
 
-### PSYCHED
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-Journaling-based mental performance coach using Next.js, PostgreSQL, Ollama, and local AI workflows.
+## Projects
 
-- Daily reflective journal entries
-- Structured self-ratings
-- Local LLM coaching responses
-- Safety-aware response design
+| | Project | What it is | Stack |
+|---|---|---|---|
+| ⚡ | **[TRACE](https://github.com/FransSadie/TRACE)** | Local-first knowledge base for engineers | Tauri · React · TypeScript · SQLite |
+| ◉ | **Market Lens** | Market analytics, research and model experiments | Python · LightGBM · Data pipelines |
+| ◈ | **[Halo](https://github.com/FransSadie/Halo)** | Scam-safety product focused on accessible workflows | TypeScript · Product/UI |
+| ◌ | **[PSYCHED](https://github.com/FransSadie/psyched)** | AI-assisted journaling and coaching prototype | Next.js · PostgreSQL · Ollama |
+| ▣ | **[Portfolio](https://github.com/FransSadie/PersonalPorfolio)** | Personal developer portfolio | Next.js · TypeScript · Motion |
 
-### Market Lens
+<details>
+<summary><b>Market Lens repos</b></summary>
+<br />
 
-Market analytics and prediction tooling built around Yahoo Finance ingestion, price-feature snapshots, model experiments, and dashboard monitoring.
+- [Market Lens — News](https://github.com/FransSadie/Market-Lens-news)
+- [Market Lens — Price](https://github.com/FransSadie/Market-lens-price)
+- [Market Lens — Research](https://github.com/FransSadie/market-lens-research)
 
-- Price ingestion and feature generation
-- Future-return label generation
-- LightGBM experimentation
-- Model history and monitoring dashboard
+</details>
 
-### Halo
+## GitHub
 
-Mobile-first scam-safety MVP for older adults, designed around trusted contacts, accessibility settings, and rules-first risk evaluation.
+<div align="center">
 
-- Suspicious message review flows
-- Trusted-contact escalation
-- Accessibility-first interface patterns
-- Rules-first safety evaluation
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FransSadie&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransSadie&layout=compact&hide_border=true&theme=transparent" />
 
-## How I build
+<img src="https://streak-stats.demolab.com?user=FransSadie&theme=transparent&hide_border=true" />
 
-I care about practical software that has a clear user, a clear workflow, and a clear reason to exist. My projects usually combine product thinking with full-stack implementation: data modeling, UI flows, local-first tradeoffs, AI integration, and deployment-ready structure.
+</div>
 
-## Tech I use often
+---
 
-TypeScript, React, Next.js, Python, PostgreSQL, SQLite, Tauri, Supabase, Ollama, LightGBM, Git, and dashboard-oriented product development.
+<div align="center">
 
-## Contact
+**TypeScript · React · Next.js · Python · PostgreSQL · Docker**
 
-- GitHub: [@FransSadie](https://github.com/FransSadie)
-- Email: frans@wdas.tech
-
-<!--
-**FransSadie/FransSadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
