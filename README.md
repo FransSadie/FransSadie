@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&text=FRANS%20SADIE&fontAlign=50&fontAlignY=36&desc=AI%20%7C%20DATA%20%7C%20SOFTWARE%20ENGINEERING&descAlign=50&descAlignY=60&animation=fadeIn&section=header" />
+<img width="100%" src="./assets/github-banner.svg" alt="Frans Sadie profile banner" />
 
 # Frans Sadie
 
@@ -23,6 +23,7 @@ My work usually sits somewhere between:
 
 - **machine learning and data pipelines**
 - **backend services and system integrations**
+- **systems architecture and service design**
 - **full-stack product development**
 - **developer tooling and internal systems**
 - **practical AI applications**
@@ -36,6 +37,7 @@ I like building systems that are useful, measurable and actually work outside a 
 - Building **ML and data systems** with feature pipelines, model training and evaluation
 - Developing **AI products** with local LLMs and structured model outputs
 - Strengthening **data engineering** around ingestion, quality checks and relational data
+- Designing **systems architecture** around APIs, services, data flows and integration boundaries
 - Building **full-stack systems** with TypeScript, React, Node.js and PostgreSQL
 - Exploring better ways to connect **AI, data and real product workflows**
 
@@ -46,11 +48,11 @@ I like building systems that are useful, measurable and actually work outside a 
 ### Software Engineer - WDAS Technologies
 **Fintech | Mar 2026 - Present**
 
-- Build and maintain web and backend functionality, REST APIs and relational-data workflows
-- Work with TypeScript, JavaScript, Node.js, SQL and PostgreSQL
-- Integrate internal and external systems and troubleshoot data and authentication flows
-- Built an internal ticketing and workflow system now used by the company
-- Work across implementation, testing, debugging and delivery
+- Work across backend services, APIs, relational data and user-facing applications
+- Design and maintain system integrations, service boundaries and data flows
+- Troubleshoot behaviour across client, service and database layers
+- Contribute to system architecture decisions, implementation patterns and maintainability
+- Work with TypeScript, JavaScript, Node.js, SQL, PostgreSQL, Docker and Git-based delivery workflows
 
 ---
 
@@ -116,6 +118,7 @@ I like building systems that are useful, measurable and actually work outside a 
 
 - AI and ML systems
 - Data pipelines and analytics tooling
+- Systems architecture and service design
 - Backend services and integrations
 - Full-stack applications
 - Internal developer tools
