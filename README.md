@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/github-banner.svg" alt="Frans Sadie profile banner" />
+<img width="100%" src="./assets/github-banner.png" alt="Frans Sadie profile banner" />
 
 # Frans Sadie
 
