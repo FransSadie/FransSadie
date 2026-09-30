@@ -43,19 +43,6 @@ I like building systems that are useful, measurable and actually work outside a 
 
 ---
 
-## 💼 Experience
-
-### Software Engineer - WDAS Technologies
-**Fintech | Mar 2026 - Present**
-
-- Work across backend services, APIs, relational data and user-facing applications
-- Design and maintain system integrations, service boundaries and data flows
-- Troubleshoot behaviour across client, service and database layers
-- Contribute to system architecture decisions, implementation patterns and maintainability
-- Work with TypeScript, JavaScript, Node.js, SQL, PostgreSQL, Docker and Git-based delivery workflows
-
----
-
 ## 🤖 AI, Data & Machine Learning
 
 <p>
